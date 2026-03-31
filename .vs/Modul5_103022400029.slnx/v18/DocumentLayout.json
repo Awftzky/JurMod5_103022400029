@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRAKTIKUM\\Modul5_103022400029\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C767FEE5-A35B-47F5-8482-FF765C79E616}|Modul5_103022400029\\Modul5_103022400029.csproj|d:\\praktikum\\modul5_103022400029\\modul5_103022400029\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C767FEE5-A35B-47F5-8482-FF765C79E616}|Modul5_103022400029\\Modul5_103022400029.csproj|solutionrelative:modul5_103022400029\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRAKTIKUM\\Modul5_103022400029\\Modul5_103022400029\\Program.cs",
+              "RelativeDocumentMoniker": "Modul5_103022400029\\Program.cs",
+              "ToolTip": "D:\\PRAKTIKUM\\Modul5_103022400029\\Modul5_103022400029\\Program.cs",
+              "RelativeToolTip": "Modul5_103022400029\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T23:49:21.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
